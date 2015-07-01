@@ -1,0 +1,4 @@
+SublimeLinter-contrib-happiness
+-------------------------------
+
+- Initial Release
