@@ -1,0 +1,4 @@
+SublimeLinter-contrib-happiness
+-------------------------------
+
+- Fixed a typo in messages
